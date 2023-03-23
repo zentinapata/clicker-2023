@@ -1,0 +1,35 @@
+#canvas{    
+  background-color: rgb(155, 7, 120);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;    
+}
+
+#score{
+  color: azure;
+  font-size: 48px;
+  width: 100px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+#button{
+  display: flex;
+  background-color: fuchsia;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;    
+  align-items: center;
+  justify-content: center;    
+  margin-top: 100px;
+  }
+    
+
+
+
+    
